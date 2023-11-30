@@ -1,0 +1,1 @@
+// use mongosh to start the server 
