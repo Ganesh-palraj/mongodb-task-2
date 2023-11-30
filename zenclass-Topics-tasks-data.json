@@ -1,0 +1,254 @@
+[
+    {
+    "date": "1-10-2020",
+    "topic": "introduction to sql",
+    "month": "october",
+    "tasks": "write your understanding of sql",
+    "id": "1"
+    },
+    {
+    "date": "2-10-2020",
+    "topic": "creating tables in sql",
+    "month": "October",
+    "tasks": "create tables in sql",
+    "id": "2"
+    },
+    {
+    "date": "3-10-2020",
+    "topic": "inserting into tables in sql",
+    "month": "October",
+    "tasks": "insert into tables in sql",
+    "id": "3"
+    },
+    {
+    "date": "4-10-2020",
+    "topic": "normalizing the given sql data",
+    "month": "October",
+    "tasks": "normalize the given sql data",
+    "id": "4"
+    },
+    {
+    "date": "5-10-2020",
+    "topic": "Inner Join",
+    "month": "October",
+    "tasks": "Do Inner join on the given data",
+    "id": "5"
+    },
+    {
+    "date": "6-10-2020",
+    "topic": "Outer Join",
+    "month": "October",
+    "tasks": "Outer join the given data",
+    "id": "6"
+    },
+    {
+    "date": "7-10-2020",
+    "topic": "Intro into MongoDB",
+    "month": "October",
+    "tasks": "Mongodb",
+    "id": "7"
+    },
+    {
+    "date": "8-10-2020",
+    "topic": "creating database , collections , documents in mongoDB",
+    "month": "October",
+    "tasks": "create database , collections , documents in mongoDB",
+    "id": "8"
+    },
+    {
+    "date": "9-10-2020",
+    "topic": "Inserting data into the database",
+    "month": "October",
+    "tasks": "Insert data into the database",
+    "id": "9"
+    },
+    {
+    "date": "10-10-2020",
+    "topic": "topic 11",
+    "month": "October",
+    "tasks": "Find all the topics and tasks which are thought in the month of October",
+    "id": "10"
+    },
+    {
+    "date": "11-11-2020",
+    "topic": "Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020",
+    "month": "December",
+    "tasks": "Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020",
+    "id": "11"
+    },
+    {
+    "date": "12-10-2020",
+    "topic": "topic 13",
+    "month": "October",
+    "tasks": "sql13",
+    "id": "12"
+    },
+    {
+    "date": "13-10-2020",
+    "topic": "topic 14",
+    "month": "October",
+    "tasks": "sql14",
+    "id": "13"
+    },
+    {
+    "date": "14-10-2020",
+    "topic": "topic 15",
+    "month": "October",
+    "tasks": "sql15",
+    "id": "14"
+    },
+    {
+    "date": "15-10-2020",
+    "topic": "topic 16",
+    "month": "October",
+    "tasks": "sql16",
+    "id": "15"
+    },
+    {
+    "date": "16-10-2020",
+    "topic": "topic 17",
+    "month": "October",
+    "tasks": "sql17",
+    "id": "16"
+    },
+    {
+    "date": "17-10-2020",
+    "topic": "topic 18",
+    "month": "October",
+    "tasks": "sql18",
+    "id": "17"
+    },
+    {
+    "date": "18-10-2020",
+    "topic": "topic 19",
+    "month": "December",
+    "tasks": "sql19",
+    "id": "18"
+    },
+    {
+    "date": "19-10-2020",
+    "topic": "topic 20",
+    "month": "December",
+    "tasks": "sql20",
+    "id": "19"
+    },
+    {
+    "date": "20-10-2020",
+    "topic": "topic 21",
+    "month": "October",
+    "tasks": "sql21",
+    "id": "20"
+    },
+    {
+    "date": "21-10-2020",
+    "topic": "topic 22",
+    "month": "October",
+    "tasks": "sql22",
+    "id": "21"
+    },
+    {
+    "date": "22-10-2020",
+    "topic": "topic 23",
+    "month": "October",
+    "tasks": "sql23",
+    "id": "22"
+    },
+    {
+    "date": "23-10-2020",
+    "topic": "topic 24",
+    "month": "October",
+    "tasks": "sql24",
+    "id": "23"
+    },
+    {
+    "date": "24-10-2020",
+    "topic": "topic 25",
+    "month": "October",
+    "tasks": "sql25",
+    "id": "24"
+    },
+    {
+    "date": "25-10-2020",
+    "topic": "topic 26",
+    "month": "October",
+    "tasks": "sql26",
+    "id": "25"
+    },
+    {
+    "date": "26-10-2020",
+    "topic": "topic 27",
+    "month": "October",
+    "tasks": "sql27",
+    "id": "26"
+    },
+    {
+    "date": "27-10-2020",
+    "topic": "topic 28",
+    "month": "October",
+    "tasks": "sql28",
+    "id": "27"
+    },
+    {
+    "date": "28-10-2020",
+    "topic": "topic 29",
+    "month": "October",
+    "tasks": "sql29",
+    "id": "28"
+    },
+    {
+    "date": "29-10-2020",
+    "topic": "topic 30",
+    "month": "October",
+    "tasks": "sql30",
+    "id": "29"
+    },
+    {
+    "date": "30-10-2020",
+    "topic": "topic 31",
+    "month": "October",
+    "tasks": "sql31",
+    "id": "30"
+    },
+    {
+    "date": "31-10-2020",
+    "topic": "topic 32",
+    "month": "October",
+    "tasks": "sql32",
+    "id": "31"
+    },
+    {
+    "date": "1-11-2020",
+    "topic": "topic 33",
+    "month": "October",
+    "tasks": "sql33",
+    "id": "32"
+    },
+    {
+    "date": "2-11-2020",
+    "topic": "topic 34",
+    "month": "October",
+    "tasks": "sql34",
+    "id": "33"
+    },
+    {
+    "date": "3-11-2020",
+    "topic": "topic 35",
+    "month": "October",
+    "tasks": "sql35",
+    "id": "34"
+    },
+    {
+    "date": "4-11-2020",
+    "topic": "topic 36",
+    "month": "October",
+    "tasks": "sql36",
+    "id": "35"
+    },
+    {
+    "date": "5-11-2020",
+    "topic": "topic 37",
+    "month": "October",
+    "tasks": "sql37",
+    "id": "36"
+    }
+    ]
